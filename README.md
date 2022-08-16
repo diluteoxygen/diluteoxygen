@@ -5,7 +5,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=8be9fd&center=true&lines=Oxygen;O2;Dilute;Drama+Frog;Oxy!&center=true&width=300&height=45"/><br>
 <img src="https://cdn.frankerfacez.com/emoticon/234226/4" width="80" align="center" /> 
-<em>“Boobs are temporary, thighs are eternal.” -Aristotle</em>
+<em>hi!</em>
 </p>
 <p align="center"> <a href="https://twitter.com/diluteoxygen" target="blank"><img src="https://img.shields.io/twitter/follow/diluteoxygen?logo=twitter&style=for-the-badge&color=blue" alt="diluteoxygen" /></a> </p>
 
