@@ -3,7 +3,7 @@
 <h1 align="center">DiluteOxygen</h1>
 <h3 align="center">better known as</h3>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=8be9fd&center=true&lines=Oxygen;O2;Dilute;Drama+Frog;Oxy!&center=true&width=300&height=45"/><br>
+<img src="https://readme-typing-svg.herokuapp.com?color=8be9fd&center=true&lines=Oxygen;O2;Dilute;Peach;Oxy!&center=true&width=300&height=45"/><br>
 <img src="https://cdn.frankerfacez.com/emoticon/234226/4" width="80" align="center" /> 
 <em>hi!</em>
 </p>
